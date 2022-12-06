@@ -1,0 +1,5 @@
+*.pyc
+/build
+/dist
+/ticfile.egg-info
+__pycache__
